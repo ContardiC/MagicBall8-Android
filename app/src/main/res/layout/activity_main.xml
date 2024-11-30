@@ -40,7 +40,6 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerVertical="true"
-                android:contentDescription="@string/image_a_ball_image_content_description"
                 android:layout_centerHorizontal="true"
                 app:srcCompat="@drawable/ball1" />
         </RelativeLayout>
@@ -55,7 +54,6 @@
                 android:layout_height="wrap_content"
                 android:layout_centerInParent="true"
                 android:background="#3F51B5"
-
                 android:text="@string/button_ask"
                 android:textColor="#FFF" />
         </RelativeLayout>

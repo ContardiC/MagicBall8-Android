@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">MagicBall8</string>
-    <string name="button_ask">Button</string>
+    <string name="button_ask">Ask</string>
     <string name="text_welcome">Make everyday decisions easier!</string>
     <string name="image_a_ball_image_content_description">A Ball Image</string>
 </resources>
